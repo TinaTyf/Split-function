@@ -1,2 +1,2 @@
 Split wall Function
-creat by panda
+created by panda
